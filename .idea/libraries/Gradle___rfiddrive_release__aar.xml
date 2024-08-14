@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: :rfiddrive-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/011890dcef991e7dd304d942ca92c9ed/rfiddrive-release/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/011890dcef991e7dd304d942ca92c9ed/rfiddrive-release/jars/libs/platform_sdk_rr_v3.1.221124.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/011890dcef991e7dd304d942ca92c9ed/rfiddrive-release/jars/libs/RfidV2.2.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/011890dcef991e7dd304d942ca92c9ed/rfiddrive-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,50 @@
+com/UHF/scanlable/MaskActivity.java
+ com.UHF.scanlable.MaskActivity
+com/UHF/scanlable/CircleProgress.java
+ com.UHF.scanlable.CircleProgress
+ com.UHF.scanlable.CircleProgress$1
+com/UHF/scanlable/FileImport.java
+ com.UHF.scanlable.FileImport
+com/UHF/scanlable/ReadWriteActivity.java
+ com.UHF.scanlable.ReadWriteActivity
+com/UHF/scanlable/FSTActivity.java
+ com.UHF.scanlable.FSTActivity
+ com.UHF.scanlable.FSTActivity$1
+ com.UHF.scanlable.FSTActivity$2
+ com.UHF.scanlable.FSTActivity$3
+com/UHF/scanlable/OtgUtils.java
+ com.UHF.scanlable.OtgUtils
+com/UHF/scanlable/Reader.java
+ com.UHF.scanlable.Reader
+com/UHF/scanlable/BuildConfig.java
+ com.UHF.scanlable.BuildConfig
+com/UHF/scanlable/ScanMode.java
+ com.UHF.scanlable.ScanMode
+ com.UHF.scanlable.ScanMode$1
+ com.UHF.scanlable.ScanMode$2
+ com.UHF.scanlable.ScanMode$3
+ com.UHF.scanlable.ScanMode$4
+ com.UHF.scanlable.ScanMode$FilterLed
+ com.UHF.scanlable.ScanMode$MsgCallback
+ com.UHF.scanlable.ScanMode$RgInventoryCheckedListener
+com/UHF/scanlable/ScanModeGroup.java
+ com.UHF.scanlable.ScanModeGroup
+com/UHF/scanlable/FileXls.java
+ com.UHF.scanlable.FileXls
+com/UHF/scanlable/Finding.java
+ com.UHF.scanlable.Finding
+ com.UHF.scanlable.Finding$1
+ com.UHF.scanlable.Finding$2
+com/UHF/scanlable/Connect232.java
+ com.UHF.scanlable.Connect232
+ com.UHF.scanlable.Connect232$1
+ com.UHF.scanlable.Connect232$2
+ com.UHF.scanlable.Connect232$3
+ com.UHF.scanlable.Connect232$VirtualKeyListenerBroadcastReceiver
+com/UHF/scanlable/Util.java
+ com.UHF.scanlable.Util
+com/UHF/scanlable/ScanView.java
+ com.UHF.scanlable.ScanView
+ com.UHF.scanlable.ScanView$1
+com/UHF/scanlable/MainActivity.java
+ com.UHF.scanlable.MainActivity
